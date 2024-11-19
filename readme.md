@@ -14,8 +14,8 @@
 ### Glad to see you here!  
 I'm Ony Novianti, a fresh graduate in Information Technology with a strong passion for software development, data analysis, and continuous learning. I enjoy exploring new technologies and turning ideas into impactful projects.
 
-This is my <b>second GitHub account</b>, created to organize and showcase my personal projects and learning journey. I decided to start fresh and build a clean, well-documented portfolio here. 
-🌍 GitHub (Original Account): [Link to Original GitHub Account]
+This is my <b>second GitHub account</b>, created to organize and showcase my personal projects and learning journey. I decided to start fresh and build a clean, well-documented portfolio here. <br>
+🌍 GitHub (Original Account): [Original Account](https://github.com/onynovianti)
   
 
 <br/>  
