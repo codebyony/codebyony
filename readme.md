@@ -1,7 +1,7 @@
 ## Hi there! 👋 Welcome to my GitHub profile!
   
 
-<a href="https://github.com/codebyony" target="_blank">
+<a href="https://github.com/codebyony" target="_blank"> 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/onynovianti" target="_blank">
